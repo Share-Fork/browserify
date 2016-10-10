@@ -1,4 +1,4 @@
-# vue-browserify-boilerplate
+# vue-browserify-boilerplate  vue-browserify脚支架
 
 > A full-featured Browserify + `vueify` setup with hot-reload, linting & unit testing.
 
